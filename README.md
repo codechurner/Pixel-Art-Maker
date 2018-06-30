@@ -8,6 +8,7 @@
 ## Instructions
 
 To get started, open `designs.js` and start building out the app's functionality.
+link to the project: https://github.com/codechurner/Pixel-Art-Maker.git
 
 For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
 
